@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagarMproject
+- 👋 Hi, I’m @sagarMuduliProjects
 - 👀 I’m interested in python, wifi, automation, django, web development, DS & ML
 - 🌱 I’m currently working as software developer
 - 💞️ I’m looking to collaborate on ...
